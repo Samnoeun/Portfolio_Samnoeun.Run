@@ -10,7 +10,7 @@ export const usePortfolioStore = defineStore("portfolio", () => {
   const personalInfo = ref({
     name: "Samnoeun Run",
     title: "Web Developer",
-    email: "samnoeun.run@student.passerellesnumeriques",
+    email: "samnoeunr@gmail.com",
     phone: "+855 972 024 055",
     location: "Street 371, phum Tropeang Chhuk, SangkatTek Thla, Khan Sen Sok, Phnom Penh",
     dateOfBirth: "November 29, 2005",

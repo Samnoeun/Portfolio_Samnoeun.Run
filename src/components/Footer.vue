@@ -111,7 +111,7 @@
           <h4 class="text-xl font-semibold mb-6 text-blue-300">Contact</h4>
           <div class="space-y-3 text-blue-200 max-w-xs">
             <p class="hover:text-white cursor-pointer transition duration-300">
-              samnoeun.run@student.passerellesnumeriques
+              samnoeunr@gmail.com
             </p>
             <p class="hover:text-white cursor-pointer transition duration-300">
               +855 972 024 055

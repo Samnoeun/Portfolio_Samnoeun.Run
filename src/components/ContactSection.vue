@@ -44,7 +44,7 @@
               <div>
                 <h4 class="font-medium text-gray-800">Phone</h4>
                 <a href="tel:+85512345678" class="text-gray-600 hover:text-blue-500 transition-colors duration-200">
-                  +855 12 345 678
+                  +855 972 024 055
                 </a>
               </div>
             </div>
