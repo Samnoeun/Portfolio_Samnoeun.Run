@@ -27,8 +27,8 @@
               </div>
               <div>
                 <h4 class="font-medium text-gray-800">Email</h4>
-                <a href="mailto:your.email@example.com" class="text-gray-600 hover:text-blue-500 transition-colors duration-200">
-                  your.email@example.com
+                <a href="mailto:samnoeunr@gmail.com" class="text-gray-600 hover:text-blue-500 transition-colors duration-200">
+                  samnoeunr@gmail.com
                 </a>
               </div>
             </div>
